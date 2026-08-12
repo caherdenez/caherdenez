@@ -1,5 +1,7 @@
 # Cesar Augusto
 
+[English](README.md) | [Español](README_es.md)
+
 **Senior Backend / Full-Stack Engineer | Python, FastAPI, AWS | Distributed Systems & AI**
 
 I am a software engineer with 8+ years of experience building backend services, cloud-native applications, and full-stack products. My work centers on reliable APIs, distributed and asynchronous architectures, and AI-enabled applications designed for production environments.
@@ -40,5 +42,5 @@ Selected projects will be added here as their repositories and documentation are
 
 ## Connect
 
-- [Website](https://example.com)
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Website](http://cesarh.co/)
+- [LinkedIn](https://www.linkedin.com/in/caherdenez/)
