@@ -25,15 +25,6 @@ I am a software engineer with 8+ years of experience building backend services, 
 | Frontend | Vue, Nuxt, React, React Native |
 | AI | RAG, LLMs, agents, OpenAI, Amazon Bedrock, LangChain |
 
-## Featured Projects
-
-Selected projects will be added here as their repositories and documentation are prepared:
-
-- **opslaunch-fastapi:** FastAPI backend engineering project.
-- **Modular RAG project:** Modular architecture for retrieval-augmented applications.
-- **Reliability and distributed systems project:** Practical patterns for dependable distributed services.
-- **Additional work:** Relevant backend, cloud, full-stack, and AI projects.
-
 ## Currently Exploring
 
 - Reliability engineering for backend and distributed services
