@@ -25,15 +25,6 @@ Soy ingeniero de software con más de 8 años de experiencia construyendo servic
 | Frontend | Vue, Nuxt, React, React Native |
 | IA | RAG, LLMs, agentes, OpenAI, Amazon Bedrock, LangChain |
 
-## Proyectos destacados
-
-Agregaré aquí proyectos seleccionados a medida que prepare sus repositorios y documentación:
-
-- **opslaunch-fastapi:** Proyecto de ingeniería backend con FastAPI.
-- **Proyecto RAG modular:** Arquitectura modular para aplicaciones con generación aumentada por recuperación.
-- **Proyecto de confiabilidad y sistemas distribuidos:** Patrones prácticos para servicios distribuidos confiables.
-- **Otros proyectos:** Trabajo relevante en backend, cloud, full-stack e IA.
-
 ## Explorando actualmente
 
 - Ingeniería de confiabilidad para servicios backend y distribuidos
